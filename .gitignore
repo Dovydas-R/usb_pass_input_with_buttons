@@ -1,0 +1,15 @@
+#---------------
+# temporary files
+#--------------
+*.o
+*.d
+*.lst
+*.map
+*.elf
+
+#---------------
+# other files
+#--------------
+#readme.txt
+.metadata
+#.gitignore
