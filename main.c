@@ -3,7 +3,7 @@
  * Version: 1.3
  * Date: 2013 07 14
  * Author: Dovydas Rusinskas
- * URL: www.cortex.lt (http://www.cortex.lt/e107_plugins/content/content.php?content.62)
+ * URL: www.electronic.lt (http://www.electronic.lt/2013/01/28/slaptazodziu-ivedimo-irenginys-veikiantis-per-usb-sasaja/)
  * Copyright: (c) Dovydas Rusinskas
  *
  * Some my comments are in english some in lithuanian language :D
